@@ -1,7 +1,7 @@
 # Python-Codes
 Questions from random websites and their solutions
-Every folder contains a code, a picture.
+Every folder contains a code, a Picture/PDF.
 
-Picture: The question from a website.
+Picture/PDF: Description of the Question.
 
-Code: The solution of the question.
+Code: Solution of the question.
